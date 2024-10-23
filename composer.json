@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tojorodialson/hc-laravel"
+            "url": "https://github.com/tojo-r27/hc-laravel"
         }
     ],
     "autoload": {
