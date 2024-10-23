@@ -3,11 +3,11 @@
     "description": "The service provide hcaptcha for Laravel",
     "keywords": ["codise", "captcha", "laravel", "hcaptcha"],
     "type": "library",
-    "homepage": "https://github.com/tojorodialson/hc-laravel",
+    "homepage": "https://github.com/tojo-r27/hc-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tojo RODIALSON",
+            "name": "Tojo R.",
             "email": "tojo@everabyte.com"
         }
     ],
